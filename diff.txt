@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
 	int a=10,b=12;
-	cout<<"sum "<<a-b;
+	cout<<"diff"<<a-b;
 	return 0;
 }
